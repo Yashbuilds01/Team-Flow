@@ -4,10 +4,9 @@ A responsive **team workspace prototype** built with HTML, CSS, and vanilla Java
 
 > **One task, from the original decision to the final review.** AutoFlow demonstrates responsive front-end design, browser-based state management, and an interactive review workflow.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Prototype](https://img.shields.io/badge/Interactive-Prototype-164C39?style=for-the-badge)
+
 
 ---
 
@@ -44,24 +43,17 @@ Start in a sample student workspace called **Campus Studio**. When you create a 
 
 | Technology | Role |
 | --- | --- |
-| **HTML5** | Workspace layout, task forms, and review dialogs |
+
 | **CSS3** | Color palette, responsive grids, and mobile layout |
-| **Vanilla JavaScript** | Navigation, task creation, review actions, and timeline updates |
+| **Node.js JavaScript** | Navigation, task creation, review actions, and timeline updates |
 | **Browser local storage** | Keeps demo changes between reloads in the same browser |
 
-## 📂 Project Structure
 
-```text
-AutoFlow/
-├── AutoFlow.html   # Prototype with embedded CSS and JavaScript
-└── README.md       # Project overview and demo instructions
-```
 
 ## ⚙️ Setup Instructions
 
-1. Download the repository from **Code → Download ZIP** on GitHub, or clone it using the URL under **Code**.
-2. Open [`AutoFlow.html`](./AutoFlow.html) in a modern browser.
-3. Use **Reset demo** to restore the sample workspace whenever you want to start over.
+Download the repository from **Code → Download ZIP** on GitHub, or clone it using the URL under **Code**.
+
 
 The prototype runs directly in the browser without a package install or build step.
 
